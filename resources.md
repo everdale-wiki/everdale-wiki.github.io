@@ -30,8 +30,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    | 4.11  |
 | Reputation Reward | 0.31  |
 | Knowledge Reward  | 0.91  |
-| Market Sell Price |   2   |
-| Market Buy Price  |   9   |
 +-------------------+-------+
 ```
 
@@ -51,8 +49,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    | 5.13  |
 | Reputation Reward | 0.38  |
 | Knowledge Reward  | 1.13  |
-| Market Sell Price |   2   |
-| Market Buy Price  |  11   |
 +-------------------+-------+
 ```
 
@@ -80,8 +76,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    | 6.38  |
 | Reputation Reward | 0.47  |
 | Knowledge Reward  | 1.41  |
-| Market Sell Price |   3   |
-| Market Buy Price  |  14   |
 +-------------------+-------+
 ```
 
@@ -119,8 +113,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |        0.83         |
 | Knowledge Reward  |        2.49         |
 |  Soup Conversion  |          2          |
-| Market Sell Price |          5          |
-| Market Buy Price  |         25          |
 +-------------------+---------------------+
 ```
 
@@ -138,8 +130,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |        1.17         |
 | Knowledge Reward  |        3.51         |
 |  Soup Conversion  |          3          |
-| Market Sell Price |          7          |
-| Market Buy Price  |         35          |
 +-------------------+---------------------+
 ```
 
@@ -155,8 +145,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    | 12.82 |
 | Reputation Reward | 0.95  |
 | Knowledge Reward  | 2.83  |
-| Market Sell Price |   6   |
-| Market Buy Price  |  28   |
 +-------------------+-------+
 ```
 
@@ -186,8 +174,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |        0.63         |
 | Knowledge Reward  |        1.87         |
 |  Soup Conversion  |          2          |
-| Market Sell Price |          4          |
-| Market Buy Price  |         19          |
 +-------------------+---------------------+
 ```
 
@@ -203,8 +189,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    | 6.22  |
 | Reputation Reward | 0.46  |
 | Knowledge Reward  | 1.37  |
-| Market Sell Price |   3   |
-| Market Buy Price  |  14   |
 +-------------------+-------+
 ```
 
@@ -220,8 +204,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    | 13.92 |
 | Reputation Reward | 1.03  |
 | Knowledge Reward  | 3.07  |
-| Market Sell Price |   6   |
-| Market Buy Price  |  31   |
 +-------------------+-------+
 ```
 
@@ -246,8 +228,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       29.13       |
 | Reputation Reward |       2.14        |
 | Knowledge Reward  |       6.41        |
-| Market Sell Price |        13         |
-| Market Buy Price  |        64         |
 +-------------------+-------------------+
 ```
 
@@ -264,8 +244,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       29.13       |
 | Reputation Reward |       2.14        |
 | Knowledge Reward  |       6.41        |
-| Market Sell Price |        13         |
-| Market Buy Price  |        64         |
 +-------------------+-------------------+
 ```
 
@@ -282,8 +260,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       29.13       |
 | Reputation Reward |       2.14        |
 | Knowledge Reward  |       6.41        |
-| Market Sell Price |        13         |
-| Market Buy Price  |        64         |
 +-------------------+-------------------+
 ```
 
@@ -300,8 +276,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       29.13       |
 | Reputation Reward |       2.14        |
 | Knowledge Reward  |       6.41        |
-| Market Sell Price |        13         |
-| Market Buy Price  |        64         |
 +-------------------+-------------------+
 ```
 
@@ -318,8 +292,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       29.13       |
 | Reputation Reward |       2.14        |
 | Knowledge Reward  |       6.41        |
-| Market Sell Price |        13         |
-| Market Buy Price  |        64         |
 +-------------------+-------------------+
 ```
 
@@ -336,8 +308,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       29.13       |
 | Reputation Reward |       2.14        |
 | Knowledge Reward  |       6.41        |
-| Market Sell Price |        13         |
-| Market Buy Price  |        64         |
 +-------------------+-------------------+
 ```
 
@@ -368,8 +338,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |    14.06     |
 | Reputation Reward |     1.04     |
 | Knowledge Reward  |     3.1      |
-| Market Sell Price |      6       |
-| Market Buy Price  |      31      |
 +-------------------+--------------+
 ```
 
@@ -395,8 +363,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |       3.37       |
 | Knowledge Reward  |      10.09       |
 |  Soup Conversion  |        8         |
-| Market Sell Price |        20        |
-| Market Buy Price  |       101        |
 +-------------------+------------------+
 ```
 
@@ -423,8 +389,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |        1.32         |
 | Knowledge Reward  |        3.95         |
 |  Soup Conversion  |          3          |
-| Market Sell Price |          8          |
-| Market Buy Price  |         39          |
 +-------------------+---------------------+
 ```
 
@@ -450,8 +414,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |       9.89       |
 | Knowledge Reward  |      29.65       |
 |  Soup Conversion  |        25        |
-| Market Sell Price |        59        |
-| Market Buy Price  |       296        |
 +-------------------+------------------+
 ```
 
@@ -477,8 +439,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |      18.57       |
 | Knowledge Reward  |       55.7       |
 |  Soup Conversion  |        46        |
-| Market Sell Price |       111        |
-| Market Buy Price  |       557        |
 +-------------------+------------------+
 ```
 
@@ -517,8 +477,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |        2.37         |
 | Knowledge Reward  |        7.11         |
 |  Soup Conversion  |          6          |
-| Market Sell Price |         14          |
-| Market Buy Price  |         71          |
 +-------------------+---------------------+
 ```
 
@@ -543,8 +501,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |    19.93     |
 | Reputation Reward |     1.47     |
 | Knowledge Reward  |     4.39     |
-| Market Sell Price |      9       |
-| Market Buy Price  |      44      |
 +-------------------+--------------+
 ```
 
@@ -569,8 +525,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |     20.3     |
 | Reputation Reward |     1.49     |
 | Knowledge Reward  |     4.47     |
-| Market Sell Price |      9       |
-| Market Buy Price  |      45      |
 +-------------------+--------------+
 ```
 
@@ -596,8 +550,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |        1.86         |
 | Knowledge Reward  |        5.58         |
 |  Soup Conversion  |          5          |
-| Market Sell Price |         11          |
-| Market Buy Price  |         56          |
 +-------------------+---------------------+
 ```
 
@@ -623,8 +575,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |        1.45         |
 | Knowledge Reward  |        4.34         |
 |  Soup Conversion  |          4          |
-| Market Sell Price |          9          |
-| Market Buy Price  |         43          |
 +-------------------+---------------------+
 ```
 
@@ -650,8 +600,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |       5.86       |
 | Knowledge Reward  |      17.58       |
 |  Soup Conversion  |        15        |
-| Market Sell Price |        35        |
-| Market Buy Price  |       176        |
 +-------------------+------------------+
 ```
 
@@ -679,8 +627,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |       5.93       |
 | Knowledge Reward  |      17.78       |
 |  Soup Conversion  |        15        |
-| Market Sell Price |        36        |
-| Market Buy Price  |       178        |
 +-------------------+------------------+
 ```
 
@@ -707,8 +653,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |      11.14       |
 | Knowledge Reward  |      33.42       |
 |  Soup Conversion  |        28        |
-| Market Sell Price |        67        |
-| Market Buy Price  |       334        |
 +-------------------+------------------+
 ```
 
@@ -735,8 +679,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |       9.22       |
 | Knowledge Reward  |      27.65       |
 |  Soup Conversion  |        23        |
-| Market Sell Price |        55        |
-| Market Buy Price  |       276        |
 +-------------------+------------------+
 ```
 
@@ -763,8 +705,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |       61.1       |
 | Knowledge Reward  |      183.28      |
 |  Soup Conversion  |       150        |
-| Market Sell Price |       367        |
-| Market Buy Price  |       1833       |
 +-------------------+------------------+
 ```
 
@@ -792,8 +732,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       215.78        |
 | Reputation Reward |        15.83        |
 | Knowledge Reward  |        47.48        |
-| Market Sell Price |         95          |
-| Market Buy Price  |         475         |
 +-------------------+---------------------+
 ```
 
@@ -820,8 +758,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       166.87        |
 | Reputation Reward |        12.24        |
 | Knowledge Reward  |        36.72        |
-| Market Sell Price |         73          |
-| Market Buy Price  |         367         |
 +-------------------+---------------------+
 ```
 
@@ -848,8 +784,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |        127.1        |
 | Reputation Reward |        9.33         |
 | Knowledge Reward  |        27.97        |
-| Market Sell Price |         56          |
-| Market Buy Price  |         280         |
 +-------------------+---------------------+
 ```
 
@@ -876,8 +810,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       171.09        |
 | Reputation Reward |        12.55        |
 | Knowledge Reward  |        37.64        |
-| Market Sell Price |         75          |
-| Market Buy Price  |         376         |
 +-------------------+---------------------+
 ```
 
@@ -904,8 +836,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       206.16        |
 | Reputation Reward |        15.12        |
 | Knowledge Reward  |        45.36        |
-| Market Sell Price |         91          |
-| Market Buy Price  |         454         |
 +-------------------+---------------------+
 ```
 
@@ -933,8 +863,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |        61.28        |
 | Reputation Reward |         4.5         |
 | Knowledge Reward  |        13.49        |
-| Market Sell Price |         27          |
-| Market Buy Price  |         135         |
 +-------------------+---------------------+
 ```
 
@@ -959,8 +887,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |        75.17        |
 | Reputation Reward |        5.52         |
 | Knowledge Reward  |        16.54        |
-| Market Sell Price |         33          |
-| Market Buy Price  |         165         |
 +-------------------+---------------------+
 ```
 
@@ -985,8 +911,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |        88.3         |
 | Reputation Reward |        6.48         |
 | Knowledge Reward  |        19.43        |
-| Market Sell Price |         39          |
-| Market Buy Price  |         194         |
 +-------------------+---------------------+
 ```
 
@@ -1012,8 +936,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       199.59        |
 | Reputation Reward |        14.64        |
 | Knowledge Reward  |        43.92        |
-| Market Sell Price |         88          |
-| Market Buy Price  |         439         |
 +-------------------+---------------------+
 ```
 
@@ -1039,8 +961,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       172.58        |
 | Reputation Reward |        12.66        |
 | Knowledge Reward  |        37.97        |
-| Market Sell Price |         76          |
-| Market Buy Price  |         380         |
 +-------------------+---------------------+
 ```
 
@@ -1065,8 +985,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       185.71        |
 | Reputation Reward |        13.62        |
 | Knowledge Reward  |        40.86        |
-| Market Sell Price |         82          |
-| Market Buy Price  |         409         |
 +-------------------+---------------------+
 ```
 
@@ -1092,8 +1010,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       601.75        |
 | Reputation Reward |        44.13        |
 | Knowledge Reward  |       132.39        |
-| Market Sell Price |         265         |
-| Market Buy Price  |        1324         |
 +-------------------+---------------------+
 ```
 
@@ -1118,8 +1034,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       244.53        |
 | Reputation Reward |        17.94        |
 | Knowledge Reward  |        53.8         |
-| Market Sell Price |         108         |
-| Market Buy Price  |         538         |
 +-------------------+---------------------+
 ```
 
@@ -1145,8 +1059,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       285.92        |
 | Reputation Reward |        20.97        |
 | Knowledge Reward  |        62.91        |
-| Market Sell Price |         126         |
-| Market Buy Price  |         629         |
 +-------------------+---------------------+
 ```
 
@@ -1172,8 +1084,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       312.21        |
 | Reputation Reward |        22.9         |
 | Knowledge Reward  |        68.69        |
-| Market Sell Price |         137         |
-| Market Buy Price  |         687         |
 +-------------------+---------------------+
 ```
 
@@ -1201,8 +1111,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       603.98        |
 | Reputation Reward |        44.3         |
 | Knowledge Reward  |       132.88        |
-| Market Sell Price |         266         |
-| Market Buy Price  |        1329         |
 +-------------------+---------------------+
 ```
 
@@ -1229,8 +1137,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |        984.7        |
 | Reputation Reward |        72.22        |
 | Knowledge Reward  |       216.64        |
-| Market Sell Price |         433         |
-| Market Buy Price  |        2166         |
 +-------------------+---------------------+
 ```
 
@@ -1257,8 +1163,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |        72.24        |
 | Reputation Reward |         5.3         |
 | Knowledge Reward  |        15.9         |
-| Market Sell Price |         32          |
-| Market Buy Price  |         159         |
 +-------------------+---------------------+
 ```
 
@@ -1283,8 +1187,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |        99.49        |
 | Reputation Reward |         7.3         |
 | Knowledge Reward  |        21.89        |
-| Market Sell Price |         44          |
-| Market Buy Price  |         219         |
 +-------------------+---------------------+
 ```
 
@@ -1309,8 +1211,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       141.41        |
 | Reputation Reward |        10.37        |
 | Knowledge Reward  |        31.11        |
-| Market Sell Price |         62          |
-| Market Buy Price  |         311         |
 +-------------------+---------------------+
 ```
 
@@ -1335,8 +1235,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       134.83        |
 | Reputation Reward |        9.89         |
 | Knowledge Reward  |        29.67        |
-| Market Sell Price |         59          |
-| Market Buy Price  |         297         |
 +-------------------+---------------------+
 ```
 
@@ -1361,8 +1259,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       284.82        |
 | Reputation Reward |        20.89        |
 | Knowledge Reward  |        62.67        |
-| Market Sell Price |         125         |
-| Market Buy Price  |         627         |
 +-------------------+---------------------+
 ```
 
@@ -1387,8 +1283,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       526.33        |
 | Reputation Reward |        38.6         |
 | Knowledge Reward  |        115.8        |
-| Market Sell Price |         232         |
-| Market Buy Price  |        1158         |
 +-------------------+---------------------+
 ```
 
@@ -1415,8 +1309,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       419.23        |
 | Reputation Reward |        30.75        |
 | Knowledge Reward  |        92.24        |
-| Market Sell Price |         184         |
-| Market Buy Price  |         922         |
 +-------------------+---------------------+
 ```
 
@@ -1442,8 +1334,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |       1972.27       |
 | Reputation Reward |       144.64        |
 | Knowledge Reward  |        433.9        |
-| Market Sell Price |         868         |
-| Market Buy Price  |        4339         |
 +-------------------+---------------------+
 ```
 
@@ -1470,8 +1360,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |        26.07         |
 | Reputation Reward |         1.92         |
 | Knowledge Reward  |         5.74         |
-| Market Sell Price |          11          |
-| Market Buy Price  |          57          |
 +-------------------+----------------------+
 ```
 
@@ -1496,8 +1384,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |        27.79         |
 | Reputation Reward |         2.04         |
 | Knowledge Reward  |         6.12         |
-| Market Sell Price |          12          |
-| Market Buy Price  |          61          |
 +-------------------+----------------------+
 ```
 
@@ -1522,8 +1408,6 @@ This document contains information about all resources present in Everdale.
 |    Coin Reward    |        28.17         |
 | Reputation Reward |         2.07         |
 | Knowledge Reward  |         6.2          |
-| Market Sell Price |          12          |
-| Market Buy Price  |          62          |
 +-------------------+----------------------+
 ```
 
@@ -1549,8 +1433,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |       1.84        |
 | Knowledge Reward  |       5.51        |
 |  Soup Conversion  |         5         |
-| Market Sell Price |        11         |
-| Market Buy Price  |        55         |
 +-------------------+-------------------+
 ```
 
@@ -1576,8 +1458,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |       1.88        |
 | Knowledge Reward  |       5.62        |
 |  Soup Conversion  |         5         |
-| Market Sell Price |        11         |
-| Market Buy Price  |        56         |
 +-------------------+-------------------+
 ```
 
@@ -1604,8 +1484,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |        0.93         |
 | Knowledge Reward  |        2.77         |
 |  Soup Conversion  |          2          |
-| Market Sell Price |          6          |
-| Market Buy Price  |         28          |
 +-------------------+---------------------+
 ```
 
@@ -1631,8 +1509,6 @@ This document contains information about all resources present in Everdale.
 | Reputation Reward |        0.56         |
 | Knowledge Reward  |        1.66         |
 |  Soup Conversion  |          1          |
-| Market Sell Price |          3          |
-| Market Buy Price  |         17          |
 +-------------------+---------------------+
 ```
 
