@@ -1,4 +1,4 @@
-# Time per item
+# Time Per Item
 
 Villager's hunger time: 2m30s
 
