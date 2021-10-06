@@ -5,6 +5,7 @@ A simple wiki for Supercell's Everdale.
 * [Study Research Projects](study-research-projects.md)
 * [Resources](resources.md)
 * [Potions and Ingredients](potions-ingredients.md)
+* [Time Per Item](time.md)
 
 ## License and Disclaimer
 
