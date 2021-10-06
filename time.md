@@ -1,6 +1,6 @@
 # Time Per Item
 
-Villager's hunger time: 2m30s
+**Villager's Hunger Time:** 2m30s
 
 ## Village
 
